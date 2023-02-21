@@ -2,13 +2,13 @@
 ## Project 01 The Mediated Extensions of Self 
 
 
-**Sensor**
+### Sensor
 
 Pulse Sensor, Sound Sensor
 
   
 
-## Explore the relationship between heart rates (BPM) & environmental sound intensity
+### Explore the relationship between heart rates (BPM) & environmental sound intensity
 
 
 
